@@ -41,7 +41,7 @@ let flowerHTMLBodyContent = flowers.map((flower)=>{
         <td><img src="${flower.img}" alt="${flower.img.split('/').pop()}" /></td>
     </tr>
     `;
-});
+}).join('');
 
 flowerHTMLBodyContent = `<tbody>${flowerHTMLBodyContent}</tbody>`;
 
