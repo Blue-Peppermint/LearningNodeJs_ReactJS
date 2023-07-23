@@ -1,0 +1,39 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "truyện dài",
+      "description": "mô tả về truyện dài",
+      "detail": "chi tiết về truyện dài",
+      "status": "1"
+    },
+    {
+      "id": "2",
+      "title": "sách thiếu nhi",
+      "description": "mô tả về sách thiếu nhiii",
+      "detail": "chi tiết về sách thiếu nhi",
+      "status": "0"
+    },
+    {
+      "id": "3",
+      "title": "sách giáo khoaa",
+      "description": "mô tả về sách giáo khoaa",
+      "detail": "chi tiết về sách giáo khoaa",
+      "status": "1"
+    },
+    {
+      "id": "4",
+      "title": "Sách mới",
+      "description": "mô tả",
+      "detail": "chi tiết",
+      "status": "1"
+    },
+    {
+      "id": "5",
+      "title": "Lại là sách mới",
+      "description": "Mô tả",
+      "detail": "Chi Tiết",
+      "status": "0"
+    }
+  ]
+}
