@@ -155,6 +155,7 @@ updateButton.click(async (e) => {
     const student = students.find(s => s.id === studentId);
     student.name = studentNameInput.val();
     student.classId = classSelect.val();
+    let classList = await getClasslist();
 
     var result = await axios({
       method: "PUT",
