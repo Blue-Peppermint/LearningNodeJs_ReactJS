@@ -1,0 +1,1 @@
+initCategory(getParamVal('id'));

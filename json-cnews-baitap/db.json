@@ -1,0 +1,56 @@
+{
+ 
+  "exercises": [
+    {
+      "id": "1",
+      "title": "Gia Huy dự thi \"Tài năng lập trình trẻ 2016\"",
+      "img": "images/img_1.jpg",
+      "description": "Website thực hiện bởi công nghệ JAVA JSP-SERVLET. Trang web giúp người bán hàng có thể quản lý bởi công nghệ JAVA JSP-SERVLET giúp người bán hàng có thể quản lý...",
+      "catId": "1",
+      "detail": "Website thực hiện bởi công nghệ JAVA JSP-SERVLET. Trang web giúp người bán hàng có thể quản lý các loài hoa một cách dễ dàng. Qua website có thể tiếp cận khách hàng và cho phép họ đặt hàng trực tuyến trên web.Website thực hiện bởi công nghệ JAVA JSP-SERVLET.\r\nTrang web giúp người bán hàng có thể quản lý các loài hoa một cách dễ dàng. Qua website có thể tiếp cận khách hàng và cho phép họ đặt hàng trực tuyến trên web."
+    },
+    {
+      "id": "2",
+      "title": "Nhúng css và jquery vào website",
+      "img": "images/img_2.jpg",
+      "description": "Đã trải qua 10 bài học và đây là bài cuối cùng trong serie học html cơ bản. Ở bài cuối này mình sẽ hướng dẫn các bạn thêm về css và jquery : 2 thành phần không thể thiếu nến bạn",
+      "catId": "1",
+      "detail": "Đã trải qua 10 bài học và đây là bài cuối cùng trong serie học html cơ bản. Ở bài cuối này mình sẽ hướng dẫn các bạn thêm về css và jquery : 2 thành phần không thể thiếu nến bạn"
+    },
+    {
+      "id": "3",
+      "title": "Bootstrap 4 alpha đã ra mắt",
+      "img": "images/img_3.jpg",
+      "description": "Bootstrap 4 là một sự đảm bảo chắc chắn tới từng dòng code. Đội ngũ xây dựng đã rất",
+      "catId": "3",
+      "detail": "Bootstrap 4 là một sự đảm bảo chắc chắn tới từng dòng code. Đội ngũ xây dựng đã rất"
+    },
+    {
+      "id": "4",
+      "title": "Material Design là gì?",
+      "img": "images/img_1.jpg",
+      "description": "Phong cách thiết kế Material Design nhắm đến những đường nét đơn giản, sử dụng nhiều",
+      "catId": "4",
+      "detail": "Phong cách thiết kế Material Design nhắm đến những đường nét đơn giản, sử dụng nhiều"
+    }
+  ],
+  
+  "categories": [
+    {
+      "id": "1",
+      "name": "WEB FRONT-END"
+    },
+    {
+      "id": "2",
+      "name": "WEB BACK-END"
+    },
+    {
+      "id": "3",
+      "name": "JQUERY"
+    },
+    {
+      "id": "4",
+      "name": "MYSQL"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+initDetail(getParamVal('id'));
