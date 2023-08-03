@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "email": "nvdinh123@gmail.com",
+      "fullname": "Nguyen Van Dinh2",
+      "avatar": "avatar/hinh1.jpg",
+      "id": "1"
+    },
+    {
+      "email": "nguyenvanabc@gmail.com",
+      "fullname": "Nguyen Van ABCC",
+      "avatar": "avatar/hinh4.gif",
+      "id": "2"
+    },
+    {
+      "email": "nguyenvanabc23@gmail.com",
+      "fullname": "chuongPro3",
+      "avatar": "avatar/hinh3.jpg",
+      "id": "3"
+    }
+  ]
+}

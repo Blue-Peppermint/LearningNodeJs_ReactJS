@@ -1,0 +1,23 @@
+{
+  "name": "node-users-baitap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "db": "json-server --watch db.json --port 3001",
+    "start": "nodemon --inspect main ",
+    "poststart": "echo 'Running poststart script...'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22",
+    "json-server": "^0.17.3",
+    "axios": "^0.24.0"
+  }
+}
